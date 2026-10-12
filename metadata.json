@@ -1,0 +1,6 @@
+{
+  "name": "VERDE FUTURO",
+  "description": "Aplicación móvil y plataforma IoT para el monitoreo y control de cultivos hidropónicos automatizados con enfoque STEM+.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
